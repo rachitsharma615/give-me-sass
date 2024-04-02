@@ -1,0 +1,23 @@
+{
+  "name": "give-me-sass",
+  "version": "1.0.3",
+  "description": "A package that praises your coding skills with a voice message, followed by a sassy roast.",
+  "main": "index.js",
+  "bin": {
+    "give-me-sass": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "praise",
+    "sassy",
+    "coding",
+    "skills"
+  ],
+  "author": "Rachit Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.5.0"
+  }
+}
